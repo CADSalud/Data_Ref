@@ -45,7 +45,7 @@
 | [2015](Referencias/descripcion_bd_defunciones_2015_LOC.pdf)| 2016| 2017| 2018| 2019 |
 
 
-### Notas respecto de catalogos:
+### Notas respecto de catalogos de mortalidad:
 
 La tabla CAPGPO que corresponde  al catálogo capítulo y grupo que contiene los códigos de capítulo y grupo de causa de la defunción
 aplica para los años: 1998 a 2005, 2008 a 2011 y 2013 y 2014. Para el resto de los años se aplica como sigue:
@@ -55,8 +55,16 @@ aplica para los años: 1998 a 2005, 2008 a 2011 y 2013 y 2014. Para el resto de 
 - 2012         CAPGPO_2012
 - 2015         CAPGPO_2015
 
+La tabla CATMINDE que lista las causas de la defunción de la base de datos aplica para los años: 1998 a 2005, 2008 a 2011 y 2013 y 2014. Para el resto de los años se aplica como sigue:
+
+- 1990 - 1997  No presenta catálogo
+- 2006 y 2007  CATMINDE_2006_2007
+- 2012         CATMINDE_2012
+- 2015         CATMINDE_2015
 
 
+Las tablas CATEMLDE corresponden al catálogo geográfico que contiene los códigos de entidad federativa, muni-
+cipio y localidad se presenta para cada año entre 2002 y 2015. No se cuenta con este catálogo de 1990 a 2001 .
 
 
 
