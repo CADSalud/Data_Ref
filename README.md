@@ -30,6 +30,14 @@
 | [2010](Referencias/descripcion_bd_nacimientos_2010.pdf)| [2011](Referencias/descripcion_bd_nacimientos_2011.pdf) | [2012](Referencias/descripcion_bd_nacimientos_2012.pdf) | [2013](Referencias/descripcion_bd_nacimientos_2013.pdf)| [2014](Referencias/descripcion_bd_nacimientos_2014.pdf)|
 | [2015](Referencias/descripcion_bd_nacimientos_2015.pdf)| 2016| 2017| 2018| 2019 |
 
+### Notas respecto de catalogos de natalidad:
+
+La tabla **ENTMUN_1985_2011** corresponde al catálogo geográfico que contiene los códigos de entidad federativa y municipio para los años 1985 a 2011. Para el resto de los años se aplica como sigue:
+
+- 2012    ENTMUN12
+- 2013    CATEMLNA13
+- 2014    CATEMLN14
+- 2015    CATEMLNA15
 
 -----------------
 
@@ -85,7 +93,7 @@ La tabla **LISTAMEX** que lista las CAUSAS BASICAS de la defunción de acuerdo 
 - 2012         LISTAMEX_2012
 - 2015         LISTAMEX_2015
 
-la tabla **ENTMUN** corresponde al catálogo geográfico que contiene los códigos de entidad federativa y municipio para los años 1990 a 2001.
+La tabla **ENTMUN** corresponde al catálogo geográfico que contiene los códigos de entidad federativa y municipio para los años 1990 a 2001.
 
 La tabla **DETALLADA** presenta el catálogo Causa de Defunción aplicable desde 1990 a 1997.
 
