@@ -57,7 +57,7 @@ La tablas correspondientes al catálogo geográfico se aplican como sigue:
 
 Base de datos **mortalidad**  
 Tabla principal **defunYY**       
-Tablas auxiliares  **Catálogos: geográficos y causa de muerte **    
+Tablas auxiliares  **Catálogos: geográficos y causa de muerte**    
 
 
 |               |               |       |    |   | 
