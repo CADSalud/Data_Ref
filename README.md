@@ -6,7 +6,7 @@
 
 Base de datos **censo2010**    
 Tabla principal **cpv2010**    
-Tablas auxiliares ** No presenta **   
+Tablas auxiliares **No presenta**   
 
 ## [CPV2010](Referencias/fd_resultados_ageb_urbana_cpv2010.csv)    
 
