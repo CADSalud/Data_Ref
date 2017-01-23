@@ -6,9 +6,14 @@
 
 Base de datos **censo2010**    
 Tabla principal **cpv2010**    
-Tablas auxiliares **descripcion_tabla**   
+Tablas auxiliares **descripcion_tabla y casos especiales**   
 
 ## [CPV2010](Referencias/fd_resultados_ageb_urbana_cpv2010.csv.pdf)    
+
+#### Nota especial:
+
+La base de datos presenta 711 registros que únicamente muestran información relativa al total de habitantes. 
+
 
 -----------------
 
@@ -78,7 +83,7 @@ Tablas auxiliares  **Catálogos: geográficos, causa de muerte y parantesco**
 | [2015](Referencias/descripcion_bd_defunciones_2015_LOC.pdf)| | | |  |
 
 
-### Notas respecto de catalogos de mortalidad:
+### Notas respecto de catalogos de mortalidad: NOTA TODAVIA EN PROCESO DE AJUSTE
 
 #### Geográficos
 
@@ -141,7 +146,7 @@ La tabla **PARENTESCO** es luna lista de claves que permiten señalar el parente
 
 -----------------
 
-## En proceso
+## Próximamente
 
 - EIC 2015
 - CENSO ECONOMICO 2014
