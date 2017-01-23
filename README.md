@@ -28,7 +28,7 @@
 | [2000](Referencias/descripcion_bd_nacimientos_2000.pdf)| [2001](Referencias/descripcion_bd_nacimientos_2001.pdf) | [2002](Referencias/descripcion_bd_nacimientos_2002.pdf) | [2003](Referencias/descripcion_bd_nacimientos_2003.pdf)| [2004](Referencias/descripcion_bd_nacimientos_2004.pdf)|
 | [2005](Referencias/descripcion_bd_nacimientos_2005.pdf)| [2006](Referencias/descripcion_bd_nacimientos_2006.pdf) | [2007](Referencias/descripcion_bd_nacimientos_2007.pdf) | [2008](Referencias/descripcion_bd_nacimientos_2008.pdf)| [2009](Referencias/descripcion_bd_nacimientos_2009.pdf)|
 | [2010](Referencias/descripcion_bd_nacimientos_2010.pdf)| [2011](Referencias/descripcion_bd_nacimientos_2011.pdf) | [2012](Referencias/descripcion_bd_nacimientos_2012.pdf) | [2013](Referencias/descripcion_bd_nacimientos_2013.pdf)| [2014](Referencias/descripcion_bd_nacimientos_2014.pdf)|
-| [2015](Referencias/Descripcion BD_Nacimientos 2015_LOC_.pdf)| 2016| 2017| 2018| 2019 |
+| [2015](Referencias/Descripcion BD_Nacimientos 2015_LOC_.pdf)| | | |  |
 
 ### Notas respecto de catalogos de natalidad:
 
@@ -54,7 +54,7 @@ La tablas correspondientes al catálogo geográfico se aplican como sigue:
 | [2000](Referenciasdescripcion_bd_defunciones_2000.pdf)| [2001](Referencias/descripcion_bd_defunciones_2001.pdf) | [2002](Referencias/descripcion_bd_defunciones_2002.pdf) | [2003](Referencias/descripcion_bd_defunciones_2003.pdf)| [2004](Referencias/descripcion_bd_defunciones_2004.pdf)|
 | [2005](Referencias/descripcion_bd_defunciones_2005.pdf)| [2006](Referencias/descripcion_bd_defunciones_2006.pdf) | [2007](Referencias/descripcion_bd_defunciones_2007.pdf) | [2008](Referencias/descripcion_bd_defunciones_2008.pdf)| [2009](Referencias/descripcion_bd_defunciones_2009.pdf)|
 | [2010](Referencias/descripcion_bd_defunciones_2010.pdf)| [2011](Referencias/descripcion_bd_defunciones_2011.pdf) | [2012](Referencias/descripcion_bd_defunciones_2012.pdf) | [2013](Referencias/descripcion_bd_defunciones_2013.pdf)| [2014](Referencias/descripcion_bd_defunciones_2014.pdf)|
-| [2015](Referencias/descripcion_bd_defunciones_2015_LOC.pdf)| 2016| 2017| 2018| 2019 |
+| [2015](Referencias/descripcion_bd_defunciones_2015_LOC.pdf)| | | |  |
 
 
 ### Notas respecto de catalogos de mortalidad:
