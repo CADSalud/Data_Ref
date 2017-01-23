@@ -4,6 +4,10 @@
 
 ## Censo de Población y vivienda 2010
 
+Base de datos **censo2010**    
+Tabla principal **cpv2010**    
+Tablas auxiliares ** No presenta **   
+
 ## [CPV2010](Referencias/fd_resultados_ageb_urbana_cpv2010.csv)    
 
 -----------------
@@ -20,6 +24,10 @@
 
 ## NATALIDAD INEGI  Nacimientos registrados en Oficialías del Registro Civil. 1985-2015
 
+Base de datos **natalidad**  
+Tabla principal **nacimYY**       
+Tablas auxiliares  **Catálogos geográficos** 
+
 |               |               |       |    |   | 
 | :-----------: |:-------------:|:-----:|:-----:|:-----:|
 | [1985](Referencias/descripcion_bd_nacimientos_1985.pdf)| [1986](Referencias/descripcion_bd_nacimientos_1986.pdf) | [1987](Referencias/descripcion_bd_nacimientos_1987.pdf) | [1988](Referencias/descripcion_bd_nacimientos_1988.pdf)| [1989](Referencias/descripcion_bd_nacimientos_1989.pdf)|
@@ -30,7 +38,7 @@
 | [2010](Referencias/descripcion_bd_nacimientos_2010.pdf)| [2011](Referencias/descripcion_bd_nacimientos_2011.pdf) | [2012](Referencias/descripcion_bd_nacimientos_2012.pdf) | [2013](Referencias/descripcion_bd_nacimientos_2013.pdf)| [2014](Referencias/descripcion_bd_nacimientos_2014.pdf)|
 | [2015](Referencias/Descripcion BD_Nacimientos 2015_LOC_.pdf)| | | |  |
 
-### Notas respecto de catalogos de natalidad:
+### Notas respecto de catálogos de natalidad:
 
 La tablas correspondientes al catálogo geográfico se aplican como sigue:
 
@@ -46,6 +54,11 @@ La tablas correspondientes al catálogo geográfico se aplican como sigue:
 -----------------
 
 ## MORTALIDAD GENERAL INEGI  Defunciones  1990-2015
+
+Base de datos **mortalidad**  
+Tabla principal **defunYY**       
+Tablas auxiliares  **Catálogos: geográficos y causa de muerte **    
+
 
 |               |               |       |    |   | 
 | :-----------: |:-------------:|:-----:|:-----:|:-----:|
