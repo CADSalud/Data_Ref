@@ -45,4 +45,24 @@
 | [2015](Referencias/descripcion_bd_defunciones_2015_LOC.pdf)| 2016| 2017| 2018| 2019 |
 
 
+### Notas respecto de catalogos:
+
+La tabla CAPGPO que corresponde  al catálogo capítulo y grupo que contiene los códigos de capítulo y grupo de causa de la defunción
+aplica para los años: 1998 a 2005, 2008 a 2011 y 2013 y 2014. Para el resto de los años se aplica como sigue:
+
+- 1990 - 1998  No presenta catálogo
+- 2006 y 2007  CAPGPO_2006_2007
+- 2012 CAPGPO_2012
+- 2015 CAPGPO_2015
+
+
+
+
+
+
+
+
+
+
+
 
