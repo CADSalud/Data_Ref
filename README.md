@@ -47,24 +47,51 @@
 
 ### Notas respecto de catalogos de mortalidad:
 
-La tabla CAPGPO que corresponde  al catálogo capítulo y grupo que contiene los códigos de capítulo y grupo de causa de la defunción
-aplica para los años: 1998 a 2005, 2008 a 2011 y 2013 y 2014. Para el resto de los años se aplica como sigue:
+Las tablas **CATEMLDE** corresponden al catálogo geográfico que contiene los códigos de entidad federativa, municipio y localidad se presenta para cada año entre 2002 y 2015. No se cuenta con este catálogo de 1990 a 2001.
 
-- 1990 - 1997  No presenta catálogo
+La tabla **CAPGPO** que corresponde al catálogo de GRUPOS DE CAUSAS: capítulo y grupo que contiene los códigos de capítulo y grupo de causa de la defunción de acuerdo al *Catálogo CIE10 (Clasificación Estadística Internacional de Enfermedades y Problemas Relacionados con la Salud)*. Aplica para los años: 1998 a 2005, 2008 a 2011 y 2013 y 2014. Para el resto de los años se aplica como sigue:
+
+- 1990 - 1997  No presenta este catálogo
 - 2006 y 2007  CAPGPO_2006_2007
 - 2012         CAPGPO_2012
 - 2015         CAPGPO_2015
 
-La tabla CATMINDE que lista las causas de la defunción de la base de datos aplica para los años: 1998 a 2005, 2008 a 2011 y 2013 y 2014. Para el resto de los años se aplica como sigue:
+La tabla **CATMINDE** que lista las CAUSAS BASICAS de la defunción de acuerdo al *Catálogo CIE10 (Clasificación Estadística Internacional de Enfermedades y Problemas Relacionados con la Salud)*. Aplica para los años: 1998 a 2005, 2008 a 2011 y 2013 y 2014. Para el resto de los años se aplica como sigue:
 
-- 1990 - 1997  No presenta catálogo
+- 1990 - 1997  No presenta este catálogo (ver tabla DETALLADA)
 - 2006 y 2007  CATMINDE_2006_2007
 - 2012         CATMINDE_2012
 - 2015         CATMINDE_2015
 
+La tabla **LISTA1** que lista Lista especial de tabulación para la mortalidad adoptada por la Asamblea Mundial de la Salud en 1990. Presenta causas de la defunción de acuerdo al *Catálogo CIE10 (Clasificación Estadística Internacional de Enfermedades y Problemas Relacionados con la Salud)*. Aplica para los años: 1998 a 2005, 2008 a 2011 y 2013 y 2014. Para el resto de los años se aplica como sigue:
 
-Las tablas CATEMLDE corresponden al catálogo geográfico que contiene los códigos de entidad federativa, muni-
-cipio y localidad se presenta para cada año entre 2002 y 2015. No se cuenta con este catálogo de 1990 a 2001 .
+- 1990 - 1997  No presenta este catálogo (ver tabla DETALLADA)
+- 2006 y 2007  LISTA1_2006_2007
+- 2012         LISTA1_2012
+- 2015         LISTA1_2015
+
+
+La tabla **GPOLIMEX** que corresponde al catálogo de GRUPOS DE CAUSAS: capítulo y grupo que contiene los códigos de capítulo y grupo de causa de la defunción de acuerdo a la *Lista mexicana de enfermedades (grupo)*. Aplica para los años: 1998 a 2005, 2008 a 2011 y 2013 y 2014. Para el resto de los años se aplica como sigue:
+
+- 1990 - 1997  No presenta este catálogo
+- 2006 y 2007  GPOLIMEX_2006_2007
+- 2012         GPOLIMEX_2012
+- 2015         GPOLIMEX_2015
+
+La tabla **LISTAMEX** que lista las CAUSAS BASICAS de la defunción de acuerdo la *Lista mexicana de enfermedades*. Aplica para los años: 1998 a 2005, 2008 a 2011 y 2013 y 2014. Para el resto de los años se aplica como sigue:
+
+- 1990 - 1997  No presenta este catálogo (ver tabla DETALLADA)
+- 2006 y 2007  LISTAMEX_2006_2007
+- 2012         LISTAMEX_2012
+- 2015         LISTAMEX_2015
+
+la tabla **ENTMUN** corresponde al catálogo geográfico que contiene los códigos de entidad federativa y municipio para los años 1990 a 2001.
+
+La tabla **DETALLADA** presenta el catálogo Causa de Defunción aplicable desde 1990 a 1997.
+
+La tabla **LISBASMIN** corresponde a una lista básica de las principales causas de defunción para el periodo 1990 a 1997.
+
+
 
 
 
