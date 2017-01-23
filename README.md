@@ -126,13 +126,19 @@ La tabla **LISTAMEX** que lista las CAUSAS BASICAS de la defunción de acuerdo 
 - 2012         LISTAMEX_2012
 - 2015         LISTAMEX_2015
 
-### Parentesco
+#### Parentesco
 
 La tabla **PARENTESCO** es luna lista de claves que permiten señalar el parentesco que guarda la victima con el supuesto agresor. Se introduce en las tablas a partir de 2012. Para el año 2015 se cuenta con una versión actualizada.
 
 
+-----------------
 
+## En proceso
 
+- EIC 2015
+- CENSO ECONOMICO 2014
+- Mortalidad Fetal
+- Mortalidad materna
 
 
 
