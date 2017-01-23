@@ -91,8 +91,7 @@ La tabla **DETALLADA** presenta el catálogo Causa de Defunción aplicable desde
 
 La tabla **LISBASMIN** corresponde a una lista básica de las principales causas de defunción para el periodo 1990 a 1997.
 
-
-
+La tabla **PARENTESCO** es luna lista de claves que permiten señalar el parentesco que guarda la victima con el supuesto agresor. Se introduce en las tablas a partir de 2012. Para el año 2015 se cuenta con una versión actualizada.
 
 
 
