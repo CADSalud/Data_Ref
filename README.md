@@ -6,17 +6,25 @@
 
 Base de datos **censo2010**    
 Tabla principal **cpv2010**    
-Tablas auxiliares **No presenta**   
+Tablas auxiliares **descripcion_tabla**   
 
-## [CPV2010](Referencias/fd_resultados_ageb_urbana_cpv2010.csv)    
+## [CPV2010](Referencias/fd_resultados_ageb_urbana_cpv2010.pdf)    
 
 -----------------
 
-## Directorio Estadístico Nacional de Unidades Económicas 201610    
+## Directorio Estadístico Nacional de Unidades Económicas 
 
-## Directorio Estadístico Nacional de Unidades Económicas 201601     
+Se presenta en tres cortes de información 
 
-## Directorio Estadístico Nacional de Unidades Económicas 20150225    
+- 201610  cierre del tercer trimestre 2016   
+
+- 201601  Apertura del año 2016
+
+- 20150225  Apertura del año 2015
+
+Base de datos **denue**  
+Tabla principal **denue[corte]**       
+Tablas auxiliares  **descripcion_tabla** 
 
 ## [DENUE](Referencias/denue_diccionario_de_datos.pdf) 
 
