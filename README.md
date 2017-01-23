@@ -57,7 +57,7 @@ La tablas correspondientes al catálogo geográfico se aplican como sigue:
 
 Base de datos **mortalidad**  
 Tabla principal **defunYY**       
-Tablas auxiliares  **Catálogos: geográficos y causa de muerte**    
+Tablas auxiliares  **Catálogos: geográficos, causa de muerte y parantesco**    
 
 
 |               |               |       |    |   | 
@@ -72,7 +72,22 @@ Tablas auxiliares  **Catálogos: geográficos y causa de muerte**
 
 ### Notas respecto de catalogos de mortalidad:
 
-Las tablas **CATEMLDE** corresponden al catálogo geográfico que contiene los códigos de entidad federativa, municipio y localidad se presenta para cada año entre 2002 y 2015. No se cuenta con este catálogo de 1990 a 2001.
+#### Geográficos
+
+**ENTMUN** corresponde al catálogo geográfico que contiene los códigos de entidad federativa y municipio para los años 1990 a 2001.
+
+**CATEMLDE** corresponde al catálogo geográfico que contiene los códigos de entidad federativa, municipio y localidad se presenta para cada año entre 2002 y 2015.
+
+#### Causa de muerte
+
+##### Catálogos de causas de defunción para el periodo 1990 a 1997 
+
+La tabla **DETALLADA** presenta el catálogo Causa de Defunción aplicable desde 1990 a 1997.
+
+La tabla **LISBASMIN** corresponde a una lista básica de las principales causas de defunción para el periodo 1990 a 1997.
+
+
+##### Base en Catálogo CIE:
 
 La tabla **CAPGPO** que corresponde al catálogo de GRUPOS DE CAUSAS: capítulo y grupo que contiene los códigos de capítulo y grupo de causa de la defunción de acuerdo al *Catálogo CIE10 (Clasificación Estadística Internacional de Enfermedades y Problemas Relacionados con la Salud)*. Aplica para los años: 1998 a 2005, 2008 a 2011 y 2013 y 2014. Para el resto de los años se aplica como sigue:
 
@@ -95,6 +110,7 @@ La tabla **LISTA1** que lista Lista especial de tabulación para la mortalidad 
 - 2012         LISTA1_2012
 - 2015         LISTA1_2015
 
+##### Base en Catálogo Lista mexicana de enfermedades:
 
 La tabla **GPOLIMEX** que corresponde al catálogo de GRUPOS DE CAUSAS: capítulo y grupo que contiene los códigos de capítulo y grupo de causa de la defunción de acuerdo a la *Lista mexicana de enfermedades (grupo)*. Aplica para los años: 1998 a 2005, 2008 a 2011 y 2013 y 2014. Para el resto de los años se aplica como sigue:
 
@@ -110,11 +126,7 @@ La tabla **LISTAMEX** que lista las CAUSAS BASICAS de la defunción de acuerdo 
 - 2012         LISTAMEX_2012
 - 2015         LISTAMEX_2015
 
-La tabla **ENTMUN** corresponde al catálogo geográfico que contiene los códigos de entidad federativa y municipio para los años 1990 a 2001.
-
-La tabla **DETALLADA** presenta el catálogo Causa de Defunción aplicable desde 1990 a 1997.
-
-La tabla **LISBASMIN** corresponde a una lista básica de las principales causas de defunción para el periodo 1990 a 1997.
+### Parentesco
 
 La tabla **PARENTESCO** es luna lista de claves que permiten señalar el parentesco que guarda la victima con el supuesto agresor. Se introduce en las tablas a partir de 2012. Para el año 2015 se cuenta con una versión actualizada.
 
