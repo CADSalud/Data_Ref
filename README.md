@@ -14,6 +14,15 @@ Tablas auxiliares **descripcion_tabla y casos especiales**
 
 La base de datos presenta 711 registros que únicamente muestran información relativa al total de habitantes. 
 
+-----------------
+
+## Resultados sobre infraestructura y características del entorno urbano 2010
+
+Base de datos **ent_urb2010**    
+Tabla principal **ent_urb2010**    
+Tablas auxiliares **no aplica** 
+
+## [ENT_URB]((Referencias/descrip_ed_eu.pdf)
 
 -----------------
 
