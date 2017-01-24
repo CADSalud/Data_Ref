@@ -83,7 +83,7 @@ Tablas auxiliares  **Catálogos: geográficos, causa de muerte y parantesco**
 | [2015](Referencias/descripcion_bd_defunciones_2015_LOC.pdf)| | | |  |
 
 
-### Notas respecto de catalogos de mortalidad: NOTA TODAVIA EN PROCESO DE AJUSTE
+### Notas respecto de catalogos de mortalidad: 
 
 #### Geográficos
 
