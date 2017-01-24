@@ -8,7 +8,7 @@ Base de datos **censo2010**
 Tabla principal **cpv2010**    
 Tablas auxiliares **descripcion_tabla y casos especiales**   
 
-## [CPV2010](Referencias/fd_resultados_ageb_urbana_cpv2010.csv.pdf)    
+## [CPV2010](Referencias/fd_agebmza_urbana.pdf)    
 
 #### Nota especial:
 
