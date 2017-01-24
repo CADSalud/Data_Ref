@@ -22,7 +22,7 @@ Base de datos **ent_urb2010**
 Tabla principal **ent_urb2010**    
 Tablas auxiliares **no aplica** 
 
-## [ENT_URB]((Referencias/descrip_ed_eu.pdf)
+## [ENT_URB](Referencias/descrip_ed_eu.pdf)
 
 -----------------
 
