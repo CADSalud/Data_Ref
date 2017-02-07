@@ -16,7 +16,7 @@ La base de datos presenta 711 registros que únicamente muestran información re
 
 -----------------
 
-## ENCUESTA INTERCENSAL INEGI 2015  :red_circle:
+## ENCUESTA INTERCENSAL INEGI 2015 (¡nuevo!)
 Base de datos **eic2015**  
 Tablas principales **eic2015per**   **eic2015viv**  (personas y viviendas)     
 Tablas auxiliares  **no aplica**   
