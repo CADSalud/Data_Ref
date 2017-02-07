@@ -20,13 +20,13 @@ La base de datos presenta 711 registros que únicamente muestran información re
 
 Base de datos **eic2015**  
 Tablas principales **eic2015per**   **eic2015viv**  (personas y viviendas)     
-Tablas auxiliares  **no aplica**   
+Tablas auxiliares  **No aplica**   
 
 ## [EIC2015 PERSONAS](Referencias/ENCUESTA INTERCENSAL DESCRIP PERSONAS 2015.pdf)
 
-
 ## [EIC2015 VIVIENDAS](Referencias/ENCUESTA INTERCENSAL DESCRIP VIVIENDA2015.pdf)
 
+## [EIC2015 Catálogos](Referencias/eic2015_catalogos.zip)
 
 -----------------
 
