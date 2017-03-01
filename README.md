@@ -177,28 +177,4 @@ La tabla **PARENTESCO** es luna lista de claves que permiten señalar el parente
 - Mortalidad Fetal
 - Mortalidad materna
 
- <head>
-  <link rel="stylesheet" href="main.css">
-  <script src="main.js"></script>
-
-  </head>
-<body>  
-<!-- Lets make a simple image magnifier -->
-<div class="magnify">
-	
-	<!-- This is the magnifying glass which will contain the original/large version -->
-	<div class="large"></div>
-	
-	<!-- This is the small image -->
-	<img class="small" src="http://thecodeplayer.com/uploads/media/iphone.jpg" width="200"/>
-	
-</div>
-
-<!-- Lets load up prefixfree to handle CSS3 vendor prefixes -->
-<script src="prefixfree.js" type="text/javascript"></script>
-<!-- You can download it from http://leaverou.github.com/prefixfree/ -->
-
-<!-- Time for jquery action -->
-<script src="jquery-1.7.1.min.js" type="text/javascript"></script>
-<script src="main.js"></script>
-</body>  
+ 
