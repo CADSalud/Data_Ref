@@ -177,3 +177,5 @@ La tabla **PARENTESCO** es luna lista de claves que permiten señalar el parente
 - Mortalidad Fetal
 - Mortalidad materna
 
+
+
