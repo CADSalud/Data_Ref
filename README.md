@@ -22,8 +22,8 @@ Base de datos **eic2015**
 Tablas principales **eic2015per**   **eic2015viv**  (personas y viviendas)     
 Tablas auxiliares  **No aplica**   
 
-## [EIC2015 PERSONAS](`Referencias/ENCUESTA INTERCENSAL DESCRIP PERSONAS 2015.pdf)
-## [EIC2015 VIVIENDAS]('Referencias/ENCUESTA INTERCENSAL DESCRIP VIVIENDA2015.pdf')
+## [EIC2015 PERSONAS](Referencias/ENCUESTA_INTERCENSAL_DESCRIP_PERSONAS_2015.pdf)
+## [EIC2015 VIVIENDAS](Referencias/ENCUESTA_INTERCENSAL_DESCRIP_VIVIENDA2015.pdf)
 ## [EIC2015 Catálogos](Referencias/eic2015_catalogos.zip)
 
 -----------------
