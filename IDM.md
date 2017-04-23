@@ -12,7 +12,7 @@ Cabe resaltar que la estimación del índice de marginación se basa en la técn
 
 ... "
 
-No obstante, tengo dudas respecto de la veracidad en la la aplicación de componentes principales debido a que el archivo 5._Indice_marginacion_mpio_2000_2010.xlsx ( https://www.google.com.mx/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiMuaGS-LrTAhVs04MKHQ4DCXAQFggkMAA&url=http%3A%2F%2Fwww.dgis.salud.gob.mx%2Fdescargas%2Fxls%2F5._Indice_marginacion_mpio_2000_2010.xlsx&usg=AFQjCNGhh0-niOxVZOxfjJydh1Qvsi9MoA ) muestra el IDM como el promedio simple de los 9 procentajes que lo componen
+No obstante, tengo dudas respecto de la veracidad en la la aplicación de componentes principales debido a que el archivo 5._Indice_marginacion_mpio_2000_2010.xlsx (www.dgis.salud.gob.mx/descargas/xls/5._Indice_marginacion_mpio_2000_2010.xlsx ) muestra el IDM como el promedio simple de los 9 procentajes que lo componen
 
 - % Población analfabeta de 15 años o más			
 - % Población sin primaria completa de 15 años o más			
