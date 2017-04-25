@@ -469,7 +469,7 @@ Resumen de contenidos
 
 ### [1] "Archivo /Users/cad_salud/Downloads/BD_NACIONAL_ANUAL_SINERHIAS_2016/ConsExt_cierre2016.xls hoja: Orden42-1 columnas: 104"
 
-### [1] " descripcion Orden 42-1, \xc1reas de Servicios M\xe9dicos - Unidades de Consulta Externa"    
+### [1] " descripcion Orden 42-1, Áreas de Servicios Médicos - Unidades de Consulta Externa"    
 
   [1] "CLUES"                                                                            
   [2] "Nombre de la Unidad"                                                              
@@ -580,7 +580,7 @@ Resumen de contenidos
 
 ### [1] "Archivo /Users/cad_salud/Downloads/BD_NACIONAL_ANUAL_SINERHIAS_2016/ConsExt_cierre2016.xls hoja: Orden42-2 columnas: 82"
 
-### [1] " descripcion Orden 42-2, \xc1reas de Servicios M\xe9dicos - Unidades de Consulta Externa"    
+### [1] " descripcion Orden 42-2, Áreas de Servicios Médicos - Unidades de Consulta Externa"    
 
  [1] "CLUES"                                                                                                         
  [2] "Nombre de la Unidad"                                                                                           
@@ -676,7 +676,7 @@ Resumen de contenidos
 
 ### [1] "Archivo /Users/cad_salud/Downloads/BD_NACIONAL_ANUAL_SINERHIAS_2016/ConsExt_cierre2016.xls hoja: Orden43 columnas: 22"
 
-### [1] " descripcion Orden 43, \xc1reas de Servicios de Apoyo - Unidades de Consulta Externa"    
+### [1] " descripcion Orden 43, Áreas de Servicios  de Apoyo - Unidades de Consulta Externa"    
 
  [1] "CLUES"                                                             "Nombre de la Unidad"                                              
  [3] "Clave Estado"                                                      "Nombre Estado"                                                    
