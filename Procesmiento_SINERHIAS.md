@@ -789,7 +789,7 @@ V2generaxlsRDS('/Users/cad_salud/Downloads/BD_NACIONAL_ANUAL_SINERHIAS_2016/EQUI
 
 ### [1] "Archivo /Users/cad_salud/Downloads/BD_NACIONAL_ANUAL_SINERHIAS_2016/EQUIPO_MEDICO_cierre2017_1.xlsx hoja: EQUIPO_MED_1 columnas: 29"
 
-### [1] " descripcion EQUIPO_MEDICO_cierre2017_2"
+### [1] " descripcion EQUIPO_MEDICO_cierre2017_1"
 
  [1] "Clue"            "CveEstado"       "NEstado"         "Jurisdiccion"    "NJurisdiccion"   "CveMunicipio"   
  [7] "NMunicipio"      "Localidad"       "NLocalidad"      "Tipo1"           "Tipo2"           "Nombre"         
@@ -801,14 +801,13 @@ V2generaxlsRDS('/Users/cad_salud/Downloads/BD_NACIONAL_ANUAL_SINERHIAS_2016/EQUI
 
 ### [1] "Archivo /Users/cad_salud/Downloads/BD_NACIONAL_ANUAL_SINERHIAS_2016/EQUIPO_MEDICO_cierre2017_2.xlsx hoja: EQUIPO_MED_2 columnas: 29"
 
-### [1] " descripcion Contiene información de equipo médico específico por clues"
+### [1] " descripcion EQUIPO_MEDICO_cierre2017_2"
 
  [1] "Clue"            "CveEstado"       "NEstado"         "Jurisdiccion"    "NJurisdiccion"   "CveMunicipio"    "NMunicipio"      "Localidad"      
  [9] "NLocalidad"      "Tipo1"           "Tipo2"           "Nombre"          "Estatus"         "Tipo"            "ReferenciaArea"  "DescripcionArea"
 [17] "Descripcion"     "Clue"            "NombreVar"       "Orden"           "CantFail"        "CantOp"          "CantTotal"       "Falla1"         
 [25] "Falla2"          "Falla3"          "Falla4"          "Falla5"          "Necesidad"      
 
-####  [1] " Registros almacenados 870176"
-
+#### [1] " Registros almacenados 870176"
 
 ## Hosp_cierre_2016.xls
