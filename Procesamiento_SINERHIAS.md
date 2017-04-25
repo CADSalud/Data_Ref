@@ -1,4 +1,12 @@
 
+# SINERHIAS
+
+# Subsistema de Información de Equipamiento, Recursos Humanos e Infraestructura para la Salud
+
+## Secretaría de Salud
+
+## Dirección General de Información en Salud
+
 
 El archivo zip recuperado el 24 de abril 2017 muestra 4 archivos:
 
