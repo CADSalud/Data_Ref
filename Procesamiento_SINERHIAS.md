@@ -8,7 +8,7 @@
 ## Dirección General de Información en Salud
 
 
-El archivo zip recuperado el 24 de abril 2017 muestra 4 archivos:
+El archivo  BD_NACIONAL_ANUAL_SINERHIAS_2016.zip recuperado el 24 de abril 2017 muestra 4 archivos:
 
 - ConsExt_cierre2016.xls
 
@@ -38,6 +38,7 @@ generaxlsRDS<-function(archivo){
   lapply((readxl::excel_sheets(archivo)),function(xx){
     edc<-readxl::read_excel(archivo,sheet = xx ,skip = 7)[1:5,]
     desc<-readxl::read_excel(archivo,sheet = xx )[5,1]
+    desc<-iconv(x = desc,from = 'latin1',to='utf8')
     print(paste0('Archivo ',archivo, ' hoja: ', xx, ' columnas: ', ncol(edc) ))
     print(paste0(' descripcion ', desc))
     rfv<-readxl::read_excel(path = archivo,sheet = xx,skip = 7,col_types = rep("text",ncol(edc)))
@@ -59,7 +60,7 @@ generaxlsRDS('/Users/cad_salud/Downloads/BD_NACIONAL_ANUAL_SINERHIAS_2016/ConsEx
 
 Resumen de contenidos
 
-### [1] "Archivo /Users/cad_salud/Downloads/BD_NACIONAL_ANUAL_SINERHIAS_2016/ConsExt_cierre2016.xls hoja: Orden1 columnas: 71"
+### [1] "Archivo BD_NACIONAL_ANUAL_SINERHIAS_2016/ConsExt_cierre2016.xls hoja: Orden1 columnas: 71"
 
 ### [1] " descripcion Orden 1, Datos Generales - Unidades de Consulta Externa"   
 
@@ -138,7 +139,7 @@ Resumen de contenidos
 #### [1] " Registros almacenados 14443"
 
 
-### [1] "Archivo /Users/cad_salud/Downloads/BD_NACIONAL_ANUAL_SINERHIAS_2016/ConsExt_cierre2016.xls hoja: Orden11-1 columnas: 104"
+### [1] "Archivo BD_NACIONAL_ANUAL_SINERHIAS_2016/ConsExt_cierre2016.xls hoja: Orden11-1 columnas: 104"
 
 ### [1] " descripcion Orden 11-1, Recursos Humanos - Unidades de Consulta Externa"    
 
@@ -251,7 +252,7 @@ Resumen de contenidos
 
 
 
-### [1] "Archivo /Users/cad_salud/Downloads/BD_NACIONAL_ANUAL_SINERHIAS_2016/ConsExt_cierre2016.xls hoja: Orden11-2 columnas: 104"
+### [1] "Archivo BD_NACIONAL_ANUAL_SINERHIAS_2016/ConsExt_cierre2016.xls hoja: Orden11-2 columnas: 104"
 
 ### [1] " descripcion Orden 11-2, Recursos Humanos - Unidades de Consulta Externa"    
 
@@ -363,7 +364,7 @@ Resumen de contenidos
 #### [1] " Registros almacenados 14443"
 
 
-### [1] "Archivo /Users/cad_salud/Downloads/BD_NACIONAL_ANUAL_SINERHIAS_2016/ConsExt_cierre2016.xls hoja: Orden11-3 columnas: 104"
+### [1] "Archivo BD_NACIONAL_ANUAL_SINERHIAS_2016/ConsExt_cierre2016.xls hoja: Orden11-3 columnas: 104"
 
 ### [1] " descripcion Orden 11-3, Recursos Humanos - Unidades de Consulta Externa"    
 
@@ -475,7 +476,7 @@ Resumen de contenidos
 #### [1] " Registros almacenados 14443"
 
 
-### [1] "Archivo /Users/cad_salud/Downloads/BD_NACIONAL_ANUAL_SINERHIAS_2016/ConsExt_cierre2016.xls hoja: Orden42-1 columnas: 104"
+### [1] "Archivo BD_NACIONAL_ANUAL_SINERHIAS_2016/ConsExt_cierre2016.xls hoja: Orden42-1 columnas: 104"
 
 ### [1] " descripcion Orden 42-1, Áreas de Servicios Médicos - Unidades de Consulta Externa"    
 
@@ -586,7 +587,7 @@ Resumen de contenidos
 
 #### [1] " Registros almacenados 14443"
 
-### [1] "Archivo /Users/cad_salud/Downloads/BD_NACIONAL_ANUAL_SINERHIAS_2016/ConsExt_cierre2016.xls hoja: Orden42-2 columnas: 82"
+### [1] "Archivo BD_NACIONAL_ANUAL_SINERHIAS_2016/ConsExt_cierre2016.xls hoja: Orden42-2 columnas: 82"
 
 ### [1] " descripcion Orden 42-2, Áreas de Servicios Médicos - Unidades de Consulta Externa"    
 
@@ -682,7 +683,7 @@ Resumen de contenidos
 #### [1] " Registros almacenados 14443"
 
 
-### [1] "Archivo /Users/cad_salud/Downloads/BD_NACIONAL_ANUAL_SINERHIAS_2016/ConsExt_cierre2016.xls hoja: Orden43 columnas: 22"
+### [1] "Archivo BD_NACIONAL_ANUAL_SINERHIAS_2016/ConsExt_cierre2016.xls hoja: Orden43 columnas: 22"
 
 ### [1] " descripcion Orden 43, Áreas de Servicios  de Apoyo - Unidades de Consulta Externa"    
 
@@ -702,7 +703,7 @@ Resumen de contenidos
 
 
 
-### [1] "Archivo /Users/cad_salud/Downloads/BD_NACIONAL_ANUAL_SINERHIAS_2016/ConsExt_cierre2016.xls hoja: Orden44 columnas: 35"
+### [1] "Archivo BD_NACIONAL_ANUAL_SINERHIAS_2016/ConsExt_cierre2016.xls hoja: Orden44 columnas: 35"
 
 ### [1] " descripcion Orden 44, Servicios Generales - Unidades de Consulta Externa"     
 
@@ -745,7 +746,7 @@ Resumen de contenidos
 #### [1] " Registros almacenados 14443"
 
 
-### [1] "Archivo /Users/cad_salud/Downloads/BD_NACIONAL_ANUAL_SINERHIAS_2016/ConsExt_cierre2016.xls hoja: Orden45 columnas: 17"
+### [1] "Archivo BD_NACIONAL_ANUAL_SINERHIAS_2016/ConsExt_cierre2016.xls hoja: Orden45 columnas: 17"
 
 ### [1] " descripcion Orden 45, Areas Administrativas y Directivas - Unidades de Consulta Externa"
 
@@ -795,7 +796,7 @@ V2generaxlsRDS('/Users/cad_salud/Downloads/BD_NACIONAL_ANUAL_SINERHIAS_2016/EQUI
 
 
 
-### [1] "Archivo /Users/cad_salud/Downloads/BD_NACIONAL_ANUAL_SINERHIAS_2016/EQUIPO_MEDICO_cierre2017_1.xlsx hoja: EQUIPO_MED_1 columnas: 29"
+### [1] "Archivo BD_NACIONAL_ANUAL_SINERHIAS_2016/EQUIPO_MEDICO_cierre2017_1.xlsx hoja: EQUIPO_MED_1 columnas: 29"
 
 ### [1] " descripcion EQUIPO_MEDICO_cierre2017_1"
 
@@ -807,7 +808,7 @@ V2generaxlsRDS('/Users/cad_salud/Downloads/BD_NACIONAL_ANUAL_SINERHIAS_2016/EQUI
 
 #### [1] " Registros almacenados 955460"
 
-### [1] "Archivo /Users/cad_salud/Downloads/BD_NACIONAL_ANUAL_SINERHIAS_2016/EQUIPO_MEDICO_cierre2017_2.xlsx hoja: EQUIPO_MED_2 columnas: 29"
+### [1] "Archivo BD_NACIONAL_ANUAL_SINERHIAS_2016/EQUIPO_MEDICO_cierre2017_2.xlsx hoja: EQUIPO_MED_2 columnas: 29"
 
 ### [1] " descripcion EQUIPO_MEDICO_cierre2017_2"
 
@@ -820,8 +821,9 @@ V2generaxlsRDS('/Users/cad_salud/Downloads/BD_NACIONAL_ANUAL_SINERHIAS_2016/EQUI
 
 ## Hosp_cierre_2016.xls
 
+El procesamiento se llevó a cabo utilizando el mismo código que en ConsExt_cierre2016.xls.
 
-### [1] "Archivo /Users/cad_salud/Downloads/BD_NACIONAL_ANUAL_SINERHIAS_2016/Hosp_cierre_2016.xls hoja: Orden1 columnas: 71"
+### [1] "Archivo BD_NACIONAL_ANUAL_SINERHIAS_2016/Hosp_cierre_2016.xls hoja: Orden1 columnas: 71"
 
 ### [1] " descripcion Orden 1, Datos Generales - Unidades de Hospitalización"
 
